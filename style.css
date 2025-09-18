@@ -1,22 +1,39 @@
+/* regole generali */
 * {
 	box-sizing: border-box;
 	margin: 0;
 	padding: 0;
-
 }
 
-.blu_bg {
+/* sfondo header + pattern */
+.blue_bg {
 	height: 100px;
 	background-color: #4EA1FF;
 	background-image: url(./img/pattern.png);
 	background-size: 300px;
+	margin-bottom: 15px;
 }
 
+/* descrizione h1*/
+.text-gray {
+	color: gray;
+}
+
+#small-text {
+	font-size: 12px;
+}
+
+#author {
+	color: cornflowerblue;
+}
+
+/* regole container intera pagina */
 .container {
 	width: 800px;
 	margin: 0 auto;
 }
 
+/* logo the booleaner */
 #logo {
 	height: 50px;
 	margin-top: 35px;
