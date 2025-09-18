@@ -1,0 +1,21 @@
+/* annullamento bordo pagina */
+body {
+	margin: 0 auto;
+}
+
+.container {
+	width: 1200px;
+	margin: 0 auto;
+}
+
+.blu_bg {
+	height: 100px;
+	background-color: #4EA1FF;
+	background-image: url(./img/pattern.png);
+	background-size: 300px;
+}
+
+.logo {
+	height: 50px;
+	margin-top: 35px;
+}
