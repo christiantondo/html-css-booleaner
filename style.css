@@ -46,6 +46,10 @@ table {
 	border-spacing: 0;
 }
 
+ul {
+	padding-left: 20px;
+}
+
 /* header tabella */
 thead {
 	color: white;
@@ -61,3 +65,5 @@ thead {
 td {
 	padding: 10px;
 }
+
+/* footer */
