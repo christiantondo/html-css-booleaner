@@ -46,6 +46,7 @@ table {
 	border-spacing: 0;
 }
 
+/* allineamento ul al container */
 ul {
 	padding-left: 20px;
 }
@@ -67,3 +68,29 @@ td {
 }
 
 /* footer */
+
+/* margine superiore */
+.margin {
+	margin-top: 15px;
+}
+
+/* immagini */
+.pictures {
+	position: relative;
+	width: 70%;
+}
+
+.pictures {
+	width: 50%;
+	display: block;
+}
+
+/* testo fluttuante */
+.overlay-text {
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	color: white;
+	font-size: 20px;
+	font-weight: bold;
+}
